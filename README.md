@@ -181,9 +181,9 @@ g++ -std=c++17 -O3 -o orderbook orderbook.cpp
 ## 🎓 Author
 
 **Abdellah Dardouri**
-- Master's in High Performance Computing & Simulation (CHPS) - ENS Paris-Saclay
-- Engineering in Cloud & Distributed Systems - INPT Morocco
-- Former AI Engineer @ Cost House MEA | Data Scientist @ Orange Maroc
+- Master's in High Performance Computing & Simulation (CHPS) - university of paris saclay
+- Engineering in Cloud & Distributed Systems - INPT 
+
 
 ## 📝 License
 
